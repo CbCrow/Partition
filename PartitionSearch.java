@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author Collin Crowthers
  */
 
-public class CollinCrowthersAssignment6 {
+public class PartitionSearch {
 
     public static void main(String[] args) {
         //menu system which sets up the array. I am using an array list because
