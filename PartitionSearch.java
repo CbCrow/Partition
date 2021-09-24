@@ -74,8 +74,6 @@ public class PartitionSearch {
     }
     
     //recursive partition algorithm to search for the k-th smallest number
-    //directions dont mention if the original array should or shouldnt be effected
-    //so it is here.
     static int partitionSearch(ArrayList<Integer> arrx, int knum, int low, int high){
         
         int i, j;
